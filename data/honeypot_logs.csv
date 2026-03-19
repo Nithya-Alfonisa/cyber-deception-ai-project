@@ -1,0 +1,201 @@
+ip,attack_type,attempts,threat_level
+192.168.0.12,DDoS,74,High
+192.168.0.246,Brute Force,52,Medium
+192.168.0.4,Brute Force,75,Medium
+192.168.0.145,SQL Injection,41,Low
+192.168.0.236,DDoS,35,Low
+192.168.0.105,SQL Injection,53,High
+192.168.0.25,SQL Injection,12,Low
+192.168.0.121,Brute Force,7,Low
+192.168.0.135,Brute Force,88,Medium
+192.168.0.24,DDoS,31,Low
+192.168.0.251,SQL Injection,68,High
+192.168.0.3,DDoS,58,Low
+192.168.0.238,SQL Injection,15,Low
+192.168.0.72,DDoS,63,Low
+192.168.0.167,Brute Force,71,Medium
+192.168.0.134,Brute Force,57,Medium
+192.168.0.216,Brute Force,18,Low
+192.168.0.201,SQL Injection,57,High
+192.168.0.174,DDoS,7,Low
+192.168.0.133,SQL Injection,94,High
+192.168.0.71,SQL Injection,29,Low
+192.168.0.50,DDoS,34,Low
+192.168.0.75,DDoS,1,Low
+192.168.0.4,SQL Injection,55,High
+192.168.0.171,SQL Injection,9,Low
+192.168.0.50,Brute Force,86,Medium
+192.168.0.179,Brute Force,94,Medium
+192.168.0.3,Brute Force,15,Low
+192.168.0.64,SQL Injection,14,Low
+192.168.0.49,DDoS,35,Low
+192.168.0.123,Brute Force,74,Medium
+192.168.0.218,Brute Force,56,Medium
+192.168.0.228,DDoS,92,High
+192.168.0.204,SQL Injection,80,High
+192.168.0.144,SQL Injection,84,High
+192.168.0.156,Brute Force,26,Low
+192.168.0.226,Brute Force,51,Medium
+192.168.0.167,Brute Force,63,Medium
+192.168.0.174,Brute Force,81,Medium
+192.168.0.41,Brute Force,25,Low
+192.168.0.36,Brute Force,92,Medium
+192.168.0.35,SQL Injection,45,Low
+192.168.0.7,SQL Injection,49,Low
+192.168.0.253,Brute Force,44,Medium
+192.168.0.124,SQL Injection,77,High
+192.168.0.226,DDoS,90,High
+192.168.0.94,Brute Force,49,Medium
+192.168.0.153,Brute Force,93,Medium
+192.168.0.146,SQL Injection,63,High
+192.168.0.98,SQL Injection,92,High
+192.168.0.231,Brute Force,1,Low
+192.168.0.6,DDoS,40,Low
+192.168.0.199,DDoS,10,Low
+192.168.0.228,SQL Injection,58,High
+192.168.0.37,Brute Force,65,Medium
+192.168.0.94,DDoS,54,Low
+192.168.0.211,Brute Force,41,Medium
+192.168.0.109,DDoS,39,Low
+192.168.0.206,SQL Injection,80,High
+192.168.0.150,SQL Injection,96,High
+192.168.0.158,SQL Injection,85,High
+192.168.0.163,DDoS,99,High
+192.168.0.37,DDoS,22,Low
+192.168.0.73,DDoS,93,High
+192.168.0.198,Brute Force,98,Medium
+192.168.0.249,DDoS,75,High
+192.168.0.227,SQL Injection,77,High
+192.168.0.25,Brute Force,100,Medium
+192.168.0.121,DDoS,67,Low
+192.168.0.33,Brute Force,83,Medium
+192.168.0.142,Brute Force,72,Medium
+192.168.0.116,SQL Injection,28,Low
+192.168.0.135,Brute Force,87,Medium
+192.168.0.233,DDoS,68,Low
+192.168.0.15,SQL Injection,88,High
+192.168.0.16,SQL Injection,45,Low
+192.168.0.226,DDoS,29,Low
+192.168.0.89,SQL Injection,64,High
+192.168.0.76,Brute Force,76,Medium
+192.168.0.246,DDoS,49,Low
+192.168.0.58,DDoS,3,Low
+192.168.0.27,DDoS,47,Low
+192.168.0.142,Brute Force,73,Medium
+192.168.0.144,DDoS,81,High
+192.168.0.131,DDoS,71,High
+192.168.0.64,DDoS,19,Low
+192.168.0.60,SQL Injection,25,Low
+192.168.0.55,SQL Injection,48,Low
+192.168.0.169,Brute Force,57,Medium
+192.168.0.242,DDoS,85,High
+192.168.0.202,SQL Injection,38,Low
+192.168.0.64,DDoS,28,Low
+192.168.0.25,SQL Injection,73,High
+192.168.0.181,SQL Injection,49,Low
+192.168.0.9,SQL Injection,63,High
+192.168.0.86,DDoS,48,Low
+192.168.0.204,Brute Force,97,Medium
+192.168.0.105,DDoS,69,Low
+192.168.0.241,SQL Injection,98,High
+192.168.0.228,DDoS,56,Low
+192.168.0.103,SQL Injection,78,High
+192.168.0.138,SQL Injection,16,Low
+192.168.0.253,DDoS,67,Low
+192.168.0.229,Brute Force,66,Medium
+192.168.0.154,DDoS,52,Low
+192.168.0.89,SQL Injection,100,High
+192.168.0.248,Brute Force,48,Medium
+192.168.0.68,Brute Force,97,Medium
+192.168.0.172,SQL Injection,9,Low
+192.168.0.35,DDoS,95,High
+192.168.0.54,SQL Injection,12,Low
+192.168.0.140,Brute Force,27,Low
+192.168.0.20,Brute Force,59,Medium
+192.168.0.228,SQL Injection,85,High
+192.168.0.19,Brute Force,65,Medium
+192.168.0.19,Brute Force,72,Medium
+192.168.0.52,DDoS,60,Low
+192.168.0.227,SQL Injection,71,High
+192.168.0.125,SQL Injection,24,Low
+192.168.0.164,Brute Force,80,Medium
+192.168.0.111,SQL Injection,75,High
+192.168.0.216,DDoS,79,High
+192.168.0.89,DDoS,21,Low
+192.168.0.151,SQL Injection,25,Low
+192.168.0.181,DDoS,77,High
+192.168.0.15,SQL Injection,85,High
+192.168.0.45,SQL Injection,31,Low
+192.168.0.70,DDoS,41,Low
+192.168.0.66,DDoS,83,High
+192.168.0.128,DDoS,55,Low
+192.168.0.185,DDoS,99,High
+192.168.0.40,DDoS,88,High
+192.168.0.153,SQL Injection,3,Low
+192.168.0.218,DDoS,51,Low
+192.168.0.106,SQL Injection,75,High
+192.168.0.188,SQL Injection,84,High
+192.168.0.252,DDoS,26,Low
+192.168.0.218,Brute Force,81,Medium
+192.168.0.17,Brute Force,40,Low
+192.168.0.243,DDoS,81,High
+192.168.0.125,SQL Injection,48,Low
+192.168.0.246,SQL Injection,29,Low
+192.168.0.232,DDoS,33,Low
+192.168.0.192,DDoS,39,Low
+192.168.0.180,DDoS,27,Low
+192.168.0.21,DDoS,80,High
+192.168.0.107,Brute Force,44,Medium
+192.168.0.77,SQL Injection,78,High
+192.168.0.218,Brute Force,49,Medium
+192.168.0.154,Brute Force,43,Medium
+192.168.0.160,DDoS,7,Low
+192.168.0.142,DDoS,28,Low
+192.168.0.173,Brute Force,1,Low
+192.168.0.120,SQL Injection,23,Low
+192.168.0.146,SQL Injection,4,Low
+192.168.0.9,SQL Injection,78,High
+192.168.0.163,SQL Injection,55,High
+192.168.0.158,DDoS,66,Low
+192.168.0.56,DDoS,63,Low
+192.168.0.114,Brute Force,81,Medium
+192.168.0.210,DDoS,55,Low
+192.168.0.206,DDoS,56,Low
+192.168.0.210,DDoS,12,Low
+192.168.0.29,DDoS,88,High
+192.168.0.255,Brute Force,36,Low
+192.168.0.103,DDoS,88,High
+192.168.0.227,Brute Force,79,Medium
+192.168.0.5,SQL Injection,8,Low
+192.168.0.169,DDoS,92,High
+192.168.0.246,SQL Injection,43,Low
+192.168.0.73,Brute Force,61,Medium
+192.168.0.72,DDoS,47,Low
+192.168.0.93,SQL Injection,42,Low
+192.168.0.172,SQL Injection,38,Low
+192.168.0.218,Brute Force,1,Low
+192.168.0.142,SQL Injection,56,High
+192.168.0.226,Brute Force,21,Low
+192.168.0.137,Brute Force,54,Medium
+192.168.0.240,Brute Force,86,Medium
+192.168.0.101,SQL Injection,100,High
+192.168.0.15,DDoS,21,Low
+192.168.0.6,Brute Force,17,Low
+192.168.0.142,DDoS,31,Low
+192.168.0.169,DDoS,90,High
+192.168.0.208,Brute Force,30,Low
+192.168.0.6,SQL Injection,79,High
+192.168.0.54,SQL Injection,93,High
+192.168.0.90,DDoS,4,Low
+192.168.0.10,DDoS,23,Low
+192.168.0.10,Brute Force,87,Medium
+192.168.0.226,SQL Injection,84,High
+192.168.0.56,DDoS,61,Low
+192.168.0.8,Brute Force,89,Medium
+192.168.0.228,SQL Injection,15,Low
+192.168.0.128,SQL Injection,98,High
+192.168.0.190,Brute Force,53,Medium
+192.168.0.20,Brute Force,90,Medium
+192.168.0.183,DDoS,58,Low
+192.168.0.207,DDoS,77,High
+192.168.0.28,Brute Force,6,Low
